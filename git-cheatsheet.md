@@ -1,6 +1,6 @@
-#Git Cheatsheet
+# Git Cheatsheet
 
-##Basic Commands
+## Basic Commands
 
 * Initialize a local git repository: `git init` 
     * Creates a .git folder (hidden) 
