@@ -36,5 +36,5 @@
 
 * Delete a local branch: `git branch -d <branch name>`
 
-* Add exisitng local repo to remote repo: `git remote add origin <url.git>`
+* Add exisitng local repo to remote repo: `git remote add origin <git repo ssh>`
     * after that `git push -u origin master`
