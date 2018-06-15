@@ -1,56 +1,56 @@
 <!--Headings-->
-#Heading 1
-##Heading 2
-###Heading 3
-####Heading 4
-#####Heading 5
-######Heading 6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-##Italics
+## Italics
 *This text* is italic
 _This text_ is also italic
 
-###Strong
+### Strong
 Polska **STRONK**
 Polska __STRONK__
 
-###Strikethrough
+### Strikethrough
 
 ~~crossed out~~ text
 
-###Horizontal rule
+### Horizontal rule
 ---
 ____
 
-###Block quote
+### Block quote
 >This is a quote
 
 
-###Links
+### Links
 [Traversy media](www.traversymedia.com "Title")
 
-###UL
+### UL
 * Item
 * Item
 * Item
     * Nested Item
         * Nested nested
 
-###OL
+### OL
 1. Item 1
 2. Item 2
 3. Item 3
     3.1. Item 
 
-###Inline code blocks
+### Inline code blocks
 `<p>Some text</p>`
 
-###Images
+### Images
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-##Github Markdown
+## Github Markdown
 
-###Code blocks
+### Code blocks
 
 ```bash
 
@@ -73,14 +73,14 @@ def add(num1, num2):
 
 ```
 
-###Tables
+### Tables
 
 | Name     | Email                  |
 | -------- | ---------------------- |
 | John Doe | johndoe@gmail.com      |
 | Susan   | susan@markdown.com |
 
-###Task lists
+### Task lists
 * [x] Task one
 * [x] Task 2
 * [ ] Task 3
